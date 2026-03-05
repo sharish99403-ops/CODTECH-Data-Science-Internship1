@@ -1,12 +1,15 @@
 # CODTECH Data Science Internship
 
-## Task 1 - Data Pipeline Development
+
  **Name:** Harish  
 **Domain:** Data Science  
 **Organization:** CODTECH  
 **Internship Duration:** 4 WEEKS  
 **Internship ID:** CTIS4678  
 **Mentor:** Neela Santhosh
+
+
+## Task 1 - Data Pipeline Development
 
 This project demonstrates an ETL pipeline using Python, Pandas, and Scikit-learn.
 
@@ -53,6 +56,11 @@ MNIST handwritten digits dataset
 
 
 
+
+
+
+
+
 TASK 3: End-to-End Data Science Project
 
 A complete machine learning project was developed to predict student performance.
@@ -83,6 +91,12 @@ Flask Server Running
 Prediction Result
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/01e30825-6702-4c41-a03d-c511fd5c48df" />
+
+
+
+
+
+
 
 
 
