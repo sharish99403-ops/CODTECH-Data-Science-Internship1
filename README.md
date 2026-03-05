@@ -52,3 +52,52 @@ MNIST handwritten digits dataset
 
 
 
+
+TASK 3: End-to-End Data Science Project
+
+A complete machine learning project was developed to predict student performance.
+
+Steps involved:
+- Data collection
+- Data preprocessing
+- Model training
+- Model deployment using Flask API
+
+The trained model predicts final marks based on:
+- Hours studied
+- Attendance
+- Previous marks
+
+Tools Used:
+Python  
+Pandas  
+Scikit-Learn  
+Flask
+
+Flask Server Running
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e60eec37-be3a-4c9c-ba7f-3840b3babbc2" />
+
+
+
+Prediction Result
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/01e30825-6702-4c41-a03d-c511fd5c48df" />
+
+
+
+Task 4 – Optimization Model
+
+This project solves a business optimization problem using Linear Programming.
+
+The goal is to maximize profit by determining the optimal number of products to produce while respecting labor and material constraints.
+
+The PuLP library was used to formulate and solve the optimization model.
+
+A business optimization problem was solved using Linear Programming with the PuLP library.
+
+### Optimization Result
+
+
+
+
