@@ -99,5 +99,5 @@ A business optimization problem was solved using Linear Programming with the PuL
 ### Optimization Result
 
 
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/83850b63-285a-4d94-80fa-82c5f86ae069" />
 
